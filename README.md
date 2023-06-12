@@ -1,0 +1,2 @@
+# mathmodel
+sentiment &amp; volatility
